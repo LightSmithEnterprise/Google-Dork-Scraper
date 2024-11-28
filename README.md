@@ -4,13 +4,13 @@ Google Dork Web Scraper
 Overview
 Google Dork Web Scraper is a Python-based tool that allows users to perform customized Google searches using a list of pre-defined Google dorks. The tool allows users to search for specific information and vulnerabilities using search queries enhanced with various dork parameters. Results are displayed in a user-friendly interface with clickable links and options to copy URLs.
 
-Features:
--Graphical interface.
--Perform advanced Google searches using Google Dorks.
--Display search results with clickable links.
--Option to copy the link to the clipboard.
--Customizable search with checkboxes for various dork options.
--Scrollable interface for results display.
+Features: /n
+-Graphical interface./n
+-Perform advanced Google searches using Google Dorks./n
+-Display search results with clickable links./n
+-Option to copy the link to the clipboard./n
+-Customizable search with checkboxes for various dork options./n
+-Scrollable interface for results display./n
 
 Requirements:
 -Python 3
